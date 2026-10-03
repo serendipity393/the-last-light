@@ -1,0 +1,24 @@
+# Local engine, export templates and downloaded tools
+/tools/
+/downloads/
+
+# Godot editor/import cache
+/source/.godot/
+/source/.import/
+
+# Builds, archives, QA output, local data and logs
+/artifacts/
+/发布版/
+/最后一盏灯/
+*.zip
+/*.cmd
+/校验值-SHA256.txt
+/验收报告.md
+/.runtime/
+*.log
+*.tmp
+*.bak
+
+# User saves and portable runtime data
+存档/
+运行数据/
